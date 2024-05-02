@@ -1,0 +1,2 @@
+# bhuma
+Mediawiki Deployment
