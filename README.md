@@ -54,4 +54,4 @@ Once all the prerequisites are met:
 ![image](https://github.com/bhumanavi/bhuma/assets/168754956/0e5db2c1-5b8b-4d23-a800-0e8ba687c845)
 
 
-- Due to time contraint the deployment is script is written as early as i can. With more time we can enhance the script and modularize it.
+- Due to time constraint the deployment script is written as early as i can. With more time we can enhance the script and modularize it.
