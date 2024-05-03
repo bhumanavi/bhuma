@@ -1,6 +1,13 @@
+@description('Resource Location')
 param location string = 'East Asia'
+
+@description('VM Name')
 param vmName string = 'wiki'
+
+@description('VM USername')
 param adminUsername string = 'bhuma'
+
+@description('VM Password')
 @secure()
 param adminPassword string
 
