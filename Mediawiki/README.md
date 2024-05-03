@@ -53,5 +53,11 @@ Once all the prerequisites are met:
 
 ![image](https://github.com/bhumanavi/bhuma/assets/168754956/0e5db2c1-5b8b-4d23-a800-0e8ba687c845)
 
+## Note:
 
-- Due to time constraint the deployment script is written as early as i can. With more time we can enhance the script and modularize it.
+### Best Practices:
+1. Modularizing your infrastructure code enhances agility, maintainability, and reliability, ultimately leading to a more robust and efficient deployment process.
+2. Use Private IP (Public IP is used for Demo Purpose)
+
+#
+Due to time constraint the deployment script is written as early as i can. With more time we can enhance the script and modularize it.
