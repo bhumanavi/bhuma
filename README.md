@@ -19,7 +19,8 @@ The Technologies used in this deployment are
 * Bicep
 * Custom Script Extension
 * Shell Scripting
-
+  
+This Bicep code automates the deployment of an Azure VM with networking resources and applies custom configuration using a script that performs the installation and configuration of MediaWiki
 # Prerequisites
 
 * Install Bicep - https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install
@@ -44,5 +45,13 @@ Once all the prerequisites are met:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+## Output Generated:
+
+![image](https://github.com/bhumanavi/bhuma/assets/168754956/ee151ea1-95ef-4c66-b4ff-402862984160)
+
+![image](https://github.com/bhumanavi/bhuma/assets/168754956/5661fd04-7aab-4d0c-ab2e-5dca54a28600)
+
+![image](https://github.com/bhumanavi/bhuma/assets/168754956/0e5db2c1-5b8b-4d23-a800-0e8ba687c845)
+
 
 - Due to time contraint the deployment is script is written as early as i can. With more time we can enhance the script and modularize it.
